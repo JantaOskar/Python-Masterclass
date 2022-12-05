@@ -16,9 +16,6 @@ else:
     else:
         print("Sorry, you have not guessed correctly")
 
-
-# sprawdźmy czy coś się zmieni
-
 # if guess != answer:
 #     if guess < answer:
 #         print("Please guess higher")

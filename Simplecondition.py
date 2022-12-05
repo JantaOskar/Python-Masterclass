@@ -7,5 +7,3 @@ elif x < y:
     print("x is smaller than y")
 else:
     print("x equals y")
-
-    #as
